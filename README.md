@@ -4,8 +4,8 @@ Este projeto é uma Calculadora de Índice de Massa Corporal (IMC) desenvolvida 
 
 🛠️ Tecnologias utilizadas:
 ✅ React (Vite)
-✅ CSS3 (ou Styled Components, Tailwind, se aplicável)
-✅ JavaScript/TypeScript (se estiver usando)
+✅ CSS3 
+✅ JavaScript
 
 🚀 Funcionalidades:
 ✔️ Cálculo instantâneo do IMC com base nos dados inseridos
